@@ -1,3 +1,114 @@
 <resources>
-    <string name="app_name">Truck-Tracker</string>
+    <string name="app_name">IT LOESUNG</string>
+
+    <string name="check_internet_connection">Please check your Internet Connection</string>
+    <string name="log_out">Log Out</string>
+    <!-- Sign Up Strings-->
+    <string name="full_name">Full Name(in Arabic)</string>
+    <string name="user_name">User Name</string>
+    <string name="user_name_signUp">User Name(in English)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="next_button">Next</string>
+    <string name="already_member">Already a member? Login</string>
+    <string name="governorate_id">Governorate</string>
+    <string name="city_id">City</string>
+    <string name="family_ranges">Family Numbers</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="insert_all_fields">You must Insert All Fields</string>
+    <string name="password_validation">Passwords do not match!! Try again</string>
+    <string name="governorate_alert">You Must Choose Governorate First</string>
+    <string name="city_alert">You Must Choose City First</string>
+    <string name="successfully_register">User Registered Successfully</string>
+    <string name="unsuccessfully_register">User Register failed</string>
+    <string name="user_name_error">Username is already exist, Please write another one</string>
+    <string name="load_data__failed">Error has been occurred while loading user data</string>
+    <string name="load_supplier__data__failed">No Supplier Found</string>
+    <string name="user_name_with_space_error">Space is not allowed in User Name</string>
+    <string name="phone_validation_error">Please write valid Phone Number</string>
+    <!--end of Sign Up Strings-->
+    <!-- Log In Strings-->
+    <string name="login_button">Login</string>
+    <string name="create_new_account">Sign up</string>
+    <string name="login_successfully">Login Successfully</string>
+    <string name="unSuccessfully_login">Incorrect Name or Password</string>
+    <string name="data_validation_error">Data Validation Error</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- main activity Strings-->
+
+    <!-- main home fragment Strings-->
+    <string name="do_request">Request Anboba</string>
+    <string name="request_pending">Request is pending</string>
+    <string name="request_data_label">Request Date</string>
+    <string name="delivery_data_label">Delivery Date</string>
+    <string name="gc_price_label">Total Price</string>
+    <string name="next_request_data_label">Next Request Date</string>
+
+    <string name="user_statues_request">Waiting Admin Approve to start Requesting</string>
+
+
+    <!--end of Log In Strings-->
+    <!-- Profile Strings-->
+    <string name="update_user_profile">Update My Information</string>
+    <string name="no_data_change">No Data Changed</string>
+    <string name="updated_successfully">Information Updated Successfully</string>
+    <string name="updated_failed">Information Updated Failed</string>
+    <string name="user_id_problem">There is a Problem in User Identification</string>
+    <string name="account_details">Account Details</string>
+    <!--end of Profile Strings-->
+    <!-- requests Strings-->
+    <string name="request_label">Request Label</string>
+    <string name="gc_delivered">GC Delivered</string>
+    <string name="have_gc">I have GC</string>
+    <string name="have_not_gc">I have not GC</string>
+    <string name="number_of_gc">How many Gc do you have?</string>
+    <string name="gc_no">Num of GC</string>
+    <string name="delivery_price">Delivery Price</string>
+    <string name="gc_price">GC Price</string>
+    <string name="send_num_gc">Send the Number of GC</string>
+    <string name="do_you_have_gc_tody">Do you have GC today?</string>
+    <string name="invalid_number">Please insert Valid Number</string>
+    <string name="delivered">Delivered</string>
+    <string name="delivered_successfully">Data has been saved</string>
+    <string name="delivered_failed">Error has been occurred</string>
+    <string name="no_user_available">No Customer Available</string>
+    <string name="request_failed">Error has been occurred while Requesting</string>
+    <string name="error_loading_clients_data">Error has been occurred while Loading Clients Information</string>
+
+
+    <!-- end of requests Strings-->
+    <!-- Supplier Strings-->
+    <!-- notificatio Strings-->
+    <string name="notification_title">you have new message</string>
+    <string name="activation_notification">Your account has been active now</string>
+    <string name="delivered_notification">Your GC will be delivered today</string>
+    <string name="apology_notification">we are apologize for lateness</string>
+    <string name="request_opened_notification">You can request GC now</string>
+    <string name="deactivation_notification">Your Account has been Disabled</string>
+
+
+    <!-- notificatio Strings-->
+
+    <!-- start Truck Details Strings-->
+    <string name="meter_read">Meter Read</string>
+    <string name="truck_number">Truck Number</string>
+    <string name="route_number">Route Number</string>
+    <string name="truck_details_submit">Submit</string>
+    <string name="title_activity_maps">Map</string>
+    <!-- end ruck Details Strings-->
+
+    <!-- Main activity Strings-->
+    <string name="packet_photo">Packet Photo</string>
+    <string name="barcode_scan">Barcode Scan</string>
+    <string name="location_services_not_available">Location Services are turned off, Please turn it on</string>
+    <!-- Main activity Strings-->
+
+
 </resources>
